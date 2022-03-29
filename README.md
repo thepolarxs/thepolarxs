@@ -9,6 +9,7 @@
   <img align="center" alt="Polar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Polar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Polar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Polar-pic" height="150" style="border-radius:50px;" src="https://picrew.me/image_maker/338224/complete?cd=8vbtnpHM98">
 </div>
   
   ##
