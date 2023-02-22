@@ -1,24 +1,15 @@
-## Olá! Eu sou o ThePolar'XS, seja Bem-vindo ao meu Perfil.
-<div align="center">
-  <a href="https://github.com/thepolarxs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thepolarxs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepolarxs&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Polar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Polar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Polar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Polar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/c/PolarModz%E3%82%81" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 
+## Olá, seja bem-vindo(a) ao meu perfil!
 
+Meu nick é iPolar, sou um desenvolvedor novo porém amo essa área e quero ter um aprendizado contínuo. Aqui no meu perfil do GitHub, você encontrará alguns dos projetos que tenho trabalhado (aceito qualquer tipo de ajuda, observações e entre outros para o meu aprendizado.), além de informações sobre meus gostos, interesses e experiências.
 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+## Sobre mim
+Atualmente, estou estudando Python, JavaScript e Java. Além disso, estou sempre em busca de novas oportunidades de aprendizado.
+
+## Projetos
+No meu perfil, você encontrará alguns dos projetos em que tenho trabalhado. Sinta-se à vontade para explorar esses projetos e deixar um feedback ou sugestão.
+
+## Contato
+Caso você tenha interesse em fazer algum projeto ou falar algo sobre programação diretamente comigo. Sinta-se à vontade de me chamar no meu instagram.
+
+{ @ipolar.xz }
+Obrigado por visitar o meu perfil do GitHub!
